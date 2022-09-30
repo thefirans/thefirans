@@ -1,6 +1,5 @@
 <p>
 <img width="200" src="https://user-images.githubusercontent.com/59099822/193342130-51d32418-708b-43cb-b260-9056e903567d.png"
-<h1><center> Hi there 👋 </center></h1>
 </p>
 <!--
 **thefirans/thefirans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
